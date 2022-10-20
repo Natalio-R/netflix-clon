@@ -19,41 +19,41 @@
     {
       "id": 2,
       "name": "Vigilante",
-      "status": "N.º2",
-      "gender": ["Españolas", "Dramas TV"],
+      "status": "N.º1",
+      "gender": ["Misterios TV", "Thrillers TV"],
       "type": "Serie",
       "origin": {
         "age": "2022",
-        "duration": "6 episodios",
-        "pegi": "+12"
+        "duration": "7 episodios",
+        "pegi": "+16"
       },
-      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUSnyZDs93YcMqWVZn0B1HgW31Tht7htMi_pghZMu_-7dhCs1V1u4hKcJJ96jqYCpzi8uqQgj4na6kVM8GKm5tjJKf71iL885c0p5BlkVagfnVyYW9RjtjzieUukRimQc5w43dWShMk1Ipfv0F81ioNdGlDUlk5vPKEmmQm9WTp9RpqSwWuToLkB0yn0htg.jpg?r=8d6"
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQCIzID6de6yj4Out284hx0aWiAvIcnx41tP0yBbgRt7RTMPCPTxQvZsRqtck8tdTL6eQ_wEllsr8pFVxHmBQeR1kBXEzxG9bA9lWk6ZTglRxe2GwtauG4t6Gks2abIv24s1Jd5SqjQN6OmUyq_ox1VRzTGWn90zRRS0uuTWQRfZdBHu8nvOp5Ydsp8B61A.jpg?r=d3b"
     },
     {
       "id": 3,
-      "name": "Sagrada Familia",
-      "status": "N.º2",
-      "gender": ["Españolas", "Dramas TV"],
-      "type": "Serie",
+      "name": "la Escuela del Bien y del Mal",
+      "status": "N.º1",
+      "gender": ["Películas Familiares", "Películas Juveniles"],
+      "type": "Película",
       "origin": {
         "age": "2022",
-        "duration": "8 episodios",
-        "pegi": "+16"
+        "duration": "2h y 28 min",
+        "pegi": "+12"
       },
-      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUSnyZDs93YcMqWVZn0B1HgW31Tht7htMi_pghZMu_-7dhCs1V1u4hKcJJ96jqYCpzi8uqQgj4na6kVM8GKm5tjJKf71iL885c0p5BlkVagfnVyYW9RjtjzieUukRimQc5w43dWShMk1Ipfv0F81ioNdGlDUlk5vPKEmmQm9WTp9RpqSwWuToLkB0yn0htg.jpg?r=8d6"
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABdtGK8PxOL-4asNykUC2COqqIuuIWap8ynkAFEgV6S2YVf3ic231VTCKcnN8T5OfNTkz7JjUgAWPM9b7vIqfyv2tTZTM8vbnKj_lv6PJTIfHhw0X9XKBMOvn8ieCgX3l4F3cCEfqGVJJllMlICA6y_xQi9SBklg6OukJjGey8vr_GduKd7uLFGTOFhyHIU4.jpg?r=491"
     },
     {
       "id": 4,
-      "name": "Sagrada Familia",
+      "name": "El Espíritu de Bridge Hollow",
       "status": "N.º2",
-      "gender": ["Españolas", "Dramas TV"],
-      "type": "Serie",
+      "gender": ["Películas Familiares", "Películas Juveniles"],
+      "type": "Película",
       "origin": {
         "age": "2022",
-        "duration": "8 episodios",
-        "pegi": "+16"
+        "duration": "1h y 31 min",
+        "pegi": "+12"
       },
-      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUSnyZDs93YcMqWVZn0B1HgW31Tht7htMi_pghZMu_-7dhCs1V1u4hKcJJ96jqYCpzi8uqQgj4na6kVM8GKm5tjJKf71iL885c0p5BlkVagfnVyYW9RjtjzieUukRimQc5w43dWShMk1Ipfv0F81ioNdGlDUlk5vPKEmmQm9WTp9RpqSwWuToLkB0yn0htg.jpg?r=8d6"
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUGXKe3pECQMNn0bjo3aQYAoZ37gFblsOOmKG2W0pWUEHFotyriMvnMPi4G_RtIXeTg4h6x6aJ21f1rqjeSFG6ziA4r_L3prVXE5Bb2kH86IZnWiyj15YeKgFWr1PA7pe1jGbkqxbrtmc5-CkJiqS_2mW73nOVdOD_rDUA0snVigUQ2t52ZCqfARwwn95wI.jpg?r=7e0"
     }
   ]
 }
