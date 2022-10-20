@@ -1,0 +1,59 @@
+{
+  "info": {
+    "count": 826
+  },
+  "results": [
+    {
+      "id": 1,
+      "name": "Sagrada Familia",
+      "status": "N.º2",
+      "gender": ["Españolas", "Dramas TV"],
+      "type": "Serie",
+      "origin": {
+        "age": "2022",
+        "duration": "8 episodios",
+        "pegi": "+16"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUSnyZDs93YcMqWVZn0B1HgW31Tht7htMi_pghZMu_-7dhCs1V1u4hKcJJ96jqYCpzi8uqQgj4na6kVM8GKm5tjJKf71iL885c0p5BlkVagfnVyYW9RjtjzieUukRimQc5w43dWShMk1Ipfv0F81ioNdGlDUlk5vPKEmmQm9WTp9RpqSwWuToLkB0yn0htg.jpg?r=8d6"
+    },
+    {
+      "id": 2,
+      "name": "Vigilante",
+      "status": "N.º2",
+      "gender": ["Españolas", "Dramas TV"],
+      "type": "Serie",
+      "origin": {
+        "age": "2022",
+        "duration": "6 episodios",
+        "pegi": "+12"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUSnyZDs93YcMqWVZn0B1HgW31Tht7htMi_pghZMu_-7dhCs1V1u4hKcJJ96jqYCpzi8uqQgj4na6kVM8GKm5tjJKf71iL885c0p5BlkVagfnVyYW9RjtjzieUukRimQc5w43dWShMk1Ipfv0F81ioNdGlDUlk5vPKEmmQm9WTp9RpqSwWuToLkB0yn0htg.jpg?r=8d6"
+    },
+    {
+      "id": 3,
+      "name": "Sagrada Familia",
+      "status": "N.º2",
+      "gender": ["Españolas", "Dramas TV"],
+      "type": "Serie",
+      "origin": {
+        "age": "2022",
+        "duration": "8 episodios",
+        "pegi": "+16"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUSnyZDs93YcMqWVZn0B1HgW31Tht7htMi_pghZMu_-7dhCs1V1u4hKcJJ96jqYCpzi8uqQgj4na6kVM8GKm5tjJKf71iL885c0p5BlkVagfnVyYW9RjtjzieUukRimQc5w43dWShMk1Ipfv0F81ioNdGlDUlk5vPKEmmQm9WTp9RpqSwWuToLkB0yn0htg.jpg?r=8d6"
+    },
+    {
+      "id": 4,
+      "name": "Sagrada Familia",
+      "status": "N.º2",
+      "gender": ["Españolas", "Dramas TV"],
+      "type": "Serie",
+      "origin": {
+        "age": "2022",
+        "duration": "8 episodios",
+        "pegi": "+16"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUSnyZDs93YcMqWVZn0B1HgW31Tht7htMi_pghZMu_-7dhCs1V1u4hKcJJ96jqYCpzi8uqQgj4na6kVM8GKm5tjJKf71iL885c0p5BlkVagfnVyYW9RjtjzieUukRimQc5w43dWShMk1Ipfv0F81ioNdGlDUlk5vPKEmmQm9WTp9RpqSwWuToLkB0yn0htg.jpg?r=8d6"
+    }
+  ]
+}
