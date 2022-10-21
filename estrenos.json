@@ -54,6 +54,84 @@
         "pegi": "+12"
       },
       "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABUGXKe3pECQMNn0bjo3aQYAoZ37gFblsOOmKG2W0pWUEHFotyriMvnMPi4G_RtIXeTg4h6x6aJ21f1rqjeSFG6ziA4r_L3prVXE5Bb2kH86IZnWiyj15YeKgFWr1PA7pe1jGbkqxbrtmc5-CkJiqS_2mW73nOVdOD_rDUA0snVigUQ2t52ZCqfARwwn95wI.jpg?r=7e0"
+    },
+    {
+      "id": 5,
+      "name": "Notre-Dame",
+      "status": "Novedad",
+      "gender": ["Dramas TV", "Francesas"],
+      "type": "Serie",
+      "origin": {
+        "age": "2022",
+        "duration": "Miniserie",
+        "pegi": "+16"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABT4ey3tIF1dTUxA5Oe9Izl16aDuIqxOHL55cLPP9nReFTGa2qcwuwvSA6YM2cY6WpjMiyUEW8dNlKoTaMHi88lOyogb06YiyWAFjkkKaZCLOVLl7WF7u1ENpQKf14ha03kS_.jpg?r=46d"
+    },
+    {
+      "id": 6,
+      "name": "La Chica del Vaticano",
+      "status": "Novedad",
+      "gender": ["Docuseries", "Británicas", "Dramas TV"],
+      "type": "Serie",
+      "origin": {
+        "age": "2022",
+        "duration": "Miniserie",
+        "pegi": "+12"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABXumfz0E4x6iHbRh-4UjE9_78O1mVHqqa7RB_Qys1OOQWAbNUZxyLnbx0IdX1HQb_DqCbCD224JXzU-ICRmMBq8_lsCk_Mkqe16k6lp7Qsm5ilRwuiMdpO_9KFy6AGzSC9Eg.jpg?r=7bf"
+    },
+    {
+      "id": 7,
+      "name": "Love is Blind",
+      "status": "93% de coincidencia",
+      "gender": ["Competición", "Reality TV"],
+      "type": "Serie",
+      "origin": {
+        "age": "2022",
+        "duration": "3 temporadas",
+        "pegi": "+12"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABaNvNe3j_fjU1FKV7tvyCCNIrlyimhZShBVtJSZVYUr_FBtx2TEyB_3V17gfHo7Ol8L5wd25CWE2lR7PBE7gzGP9NXj5o_bEIwsER68FC2S0e9IHC-RM3hpNbRm6TytDBIQXVmH7SPvIbbz9PqmBEeZO3rvAId2ufrT9EHs-zRuG7jGKoquKXlgzFg88lAokXowIDLBCYf5F8yGQ43LjA1uC8-WaJcWkGiq3dHPf_F7mrrEav4FLGvDyInVrEuBEnx-VrcDY_CbOiyYvfi3lAz2BmgiEMie3RlxS1CoNbk3nVm9TJBCAyCYtkQ.jpg?r=291"
+    },
+    {
+      "id": 8,
+      "name": "Hasta que la Plata nos Separe",
+      "status": "Novedad",
+      "gender": ["Colombianas", "Dramas TV", "Comedias TV"],
+      "type": "Serie",
+      "origin": {
+        "age": "2022",
+        "duration": "85 episodios",
+        "pegi": "+12"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQ688XanWflEoFc3Dl6rKytvFQzZYXTyEUe0WMATsGthElznbJ2RTOJXS2Y6w3dcWlzPFW0bEnvtjRKGNZZxD9hp4oaD4vBRA_Krz5t8L5npzRYlkFsY5NxYFFYoJfKGAlgjAS8UZo1_b7VZb0ph2CgR8WAyq9gX8Uf4H_sLwV1nWMtTWm3IhKfU9YJ1E_w.jpg?r=0d9"
+    },
+    {
+      "id": 9,
+      "name": "Yo, 'El Vaquilla'",
+      "status": "N.º3",
+      "gender": ["Películas basada en hechos reales", "Películas"],
+      "type": "Película",
+      "origin": {
+        "age": "1985",
+        "duration": "1h y 45 min",
+        "pegi": "+12"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABaqydXviwVKwvz9vUD8252dQCVf6HJwN3mKAVG6HjtvOmXTP9R9oD0Ge_WK6g85scSHmEAv4zEE4N0pjx-lfc68K4QsQqKC6Ux65Kjbu5vpZrC4kGD-VUYTOuDw3jsQB2O88THZPZsu5c6vgFkW8fJtAk4AHKEZsFQg.webp?r=268"
+    },
+    {
+      "id": 10,
+      "name": "La Banda del Guante Verde",
+      "status": "Novedad",
+      "gender": ["Polacas", "Series TV", "Comedias TV"],
+      "type": "Película",
+      "origin": {
+        "age": "2022",
+        "duration": "8 episodios",
+        "pegi": "+16"
+      },
+      "image": "https://occ-0-2693-358.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABevpzVltKKiDQVyLxeadHEI5wJmNThjM-G-gSdLh91dw_MBVLZsdsMew7blYofbon86FW00mLhl11drVHOp4N_d03ytZgtqQgATBvg_bcJLA2_R3RxVMNpbaN_QDntGg259D.jpg?r=b2b"
     }
   ]
 }
